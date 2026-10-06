@@ -1,0 +1,263 @@
+{
+  "brand": "Bullepees.nl",
+  "timezone": "Europe/Amsterdam",
+  "note": "Elke post = afbeelding(en) in export/ + caption + hashtags. Plan in Buffer als draft; controleer voordat je publiceert. Productinfo en prijzen van bullepees.nl, controleer actuele prijzen voor publicatie.",
+  "posts": [
+    {
+      "id": "p01",
+      "date": "2026-10-12T19:00:00+02:00",
+      "format": "feed",
+      "type": "Welkom terug",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "images": [
+        "export/p01-1.png"
+      ],
+      "link": "https://bullepees.nl",
+      "caption": "We zijn er weer! 🐾\n\nVanaf vandaag pakken we Instagram en Facebook weer helemaal op. Elke week vind je hier tips over hondengezondheid, onze nieuwste natuurlijke snacks, acties en natuurlijk heel veel honden.\n\nHeb je een vraag over een snack, een allergie of welk product bij jouw hond past? Stel hem gerust in de reacties of stuur ons een berichtje. We denken graag met je mee.\n\nVolg ons, dan mis je niets!",
+      "hashtags": "#bullepees #natuurlijkehondensnacks #hondensnacks #hondenliefde #hondenvannederland"
+    },
+    {
+      "id": "p02",
+      "date": "2026-10-14T19:00:00+02:00",
+      "format": "carrousel",
+      "type": "100% natuurlijk · carrousel van 3",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "images": [
+        "export/p02-1.png",
+        "export/p02-2.png",
+        "export/p02-3.png"
+      ],
+      "link": "https://bullepees.nl",
+      "caption": "Natuurlijk genieten begint hier 🌿\n\nBij Bullepees.nl vind je 100% natuurlijk gedroogde hondensnacks: van kip, rund en wild tot vis, lam en vegetarisch.\n\nSwipe voor twee van onze favorieten →\n🐄 Gedroogde runderblaas, knapperig en lekker om op te kauwen\n🐄 Runderkophuid, stevig en goed voor het gebit\n\n✔ Vóór 17:00 besteld = volgende dag in huis\n✔ Gratis verzending vanaf €35\n✔ Bij elke bestelling een extra snack\n\nNeem een kijkje via de link in bio.",
+      "hashtags": "#bullepees #natuurlijkehondensnacks #runderblaas #runderkophuid #gedroogdehondensnacks"
+    },
+    {
+      "id": "p03",
+      "date": "2026-10-16T17:00:00+02:00",
+      "format": "feed",
+      "type": "Grappig · weekend",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "images": [
+        "export/p03-1.png"
+      ],
+      "link": "https://bullepees.nl",
+      "caption": "De kunst van het niksen — hij beheerst 'm perfect 😌\n\nFijn weekend van ons allemaal bij Bullepees.nl! 🐾",
+      "hashtags": "#bullepees #weekendvibes #hondenhumor #dogsofinstagram #hondenvannederland"
+    },
+    {
+      "id": "s01",
+      "date": "2026-10-18T11:00:00+02:00",
+      "format": "story",
+      "type": "Story · 3 frames",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "images": [
+        "export/s01-1.png",
+        "export/s01-2.png",
+        "export/s01-3.png"
+      ],
+      "link": "https://bullepees.nl/hondensnacks",
+      "sticker": "Frame 2 → https://bullepees.nl/product/paardenlong · Frame 3 → https://bullepees.nl/hondensnacks",
+      "caption": "",
+      "hashtags": ""
+    },
+    {
+      "id": "p04",
+      "date": "2026-10-19T19:00:00+02:00",
+      "format": "carrousel",
+      "type": "Product · Vis Proeverijtje",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "images": [
+        "export/p04-1.png",
+        "export/p04-2.png"
+      ],
+      "link": "https://bullepees.nl/hondensnacks",
+      "caption": "🐟 Vis Proeverijtje voor Honden – ontdek de smaak van vis!\n\nIs jouw hond dol op vis? In dit proeverijtje hebben we een gevarieerde selectie hondensnacks van vis samengebracht. Zo kan jouw hond kennismaken met verschillende smaken, geuren, vormen en structuren.\n\nIdeaal als je nog niet precies weet welke vissnack jouw hond het lekkerst vindt. En ook leuk als cadeautje voor een hondenliefhebber!\n\nSwipe voor wat erin zit → en bestel via de link in bio.\n\n🐾 Welke vissnack vindt jouw hond het lekkerst?",
+      "hashtags": "#bullepees #visproeverijtje #vissnacks #natuurlijkehondensnacks #hondencadeau"
+    },
+    {
+      "id": "p05",
+      "date": "2026-10-21T19:00:00+02:00",
+      "format": "feed",
+      "type": "Blog · carrousel van 6",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "images": [
+        "export/p05-1.png",
+        "export/p05-2.png",
+        "export/p05-3.png",
+        "export/p05-4.png",
+        "export/p05-5.png",
+        "export/p05-6.png"
+      ],
+      "link": "https://bullepees.nl/blog",
+      "caption": "Nieuw op de blog 📖 Hoe herken je een écht natuurlijke hondensnack?\n\nOp verpakkingen zie je termen als puur, gezond en 100% natuurlijk, maar helaas klopt dat niet altijd. Swipe door de belangrijkste tips →\n\n✔ Controleer de ingrediënten: hoe korter de lijst, hoe beter\n✔ Kijk naar kleur en geur\n✔ Kies bij een gevoelige hond voor één eiwitbron\n\nLees de hele blog hier: https://bullepees.nl/blog (ook via de link in bio)",
+      "hashtags": "#bullepees #natuurlijkehondensnacks #hondentips #ingredienten #gezondehond"
+    },
+    {
+      "id": "p06",
+      "date": "2026-10-23T19:00:00+02:00",
+      "format": "feed",
+      "type": "Kennis · gezondheidscheck",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "images": [
+        "export/p06-1.png"
+      ],
+      "link": "https://bullepees.nl",
+      "caption": "Even checken: hoe gaat het met je hond? 🩺\n\nMet deze 6 stappen doe je thuis een snelle gezondheidscheck: ogen, oren, neus, vacht, poten en ontlasting.\n\nBewaar deze post zodat je hem terugvindt. Twijfel je ergens over? Bel altijd je dierenarts.",
+      "hashtags": "#bullepees #hondengezondheid #hondentips #gezondehond #hondenbaas"
+    },
+    {
+      "id": "p07",
+      "date": "2026-10-26T19:00:00+01:00",
+      "format": "carrousel",
+      "type": "Grappig + product · carrousel van 3",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "images": [
+        "export/p07-1.png",
+        "export/p07-2.png",
+        "export/p07-3.png"
+      ],
+      "link": "https://bullepees.nl/hondensnacks/paard",
+      "caption": "Alleen het beste is goed genoeg 😎\n\nKieskeurig? Terecht. Zeker als je hond gevoelig is. Swipe voor twee snacks waar de meeste honden goed op reageren →\n\n🐴 Paardenkophuid: stevig, hypoallergeen en laag in vet\n🐟 100% Sticks Zalm: één eiwitbron, makkelijk te breken\n\nTag een hond die ook alleen het allerbeste wil 👇",
+      "hashtags": "#bullepees #hypoallergeen #paardensnack #vissnack #natuurlijkehondensnacks"
+    },
+    {
+      "id": "p08",
+      "date": "2026-10-28T19:00:00+01:00",
+      "format": "feed",
+      "type": "Review",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "images": [
+        "export/p08-1.png"
+      ],
+      "link": "https://www.kiyoh.com/reviews/1047061/bullepees_nl",
+      "caption": "Daar worden we blij van 💚\n\n„Mooie natuurlijke producten. Van kauwbotjes tot trainingssnoepjes, onze hond is enthousiast!” — Tanja uit Lisse\n\nDank je wel, Tanja! Lees meer beoordelingen via de link in bio.",
+      "hashtags": "#bullepees #klantenreview #kiyoh #natuurlijkehondensnacks #blijehond"
+    },
+    {
+      "id": "p09",
+      "date": "2026-10-30T17:00:00+01:00",
+      "format": "carrousel",
+      "type": "Grappig + gebit · carrousel van 3",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "images": [
+        "export/p09-1.png",
+        "export/p09-2.png",
+        "export/p09-3.png"
+      ],
+      "link": "https://bullepees.nl/hondensnacks",
+      "caption": "Showtime voor de tandjes ✨\n\nGeen gouden grillz nodig: lekker lang kauwen op een stevige natuurlijke snack helpt tandplak te verminderen. Swipe voor twee echte gebitsvrienden →\n\n🦴 Runderhoefjes\n🦴 Bullepezen ± 90 cm\n\nLet op: kauwen is een fijne aanvulling, maar vervangt tandenpoetsen en de controle bij de dierenarts niet.",
+      "hashtags": "#bullepees #gebitsverzorging #kauwsnack #bullepees #dogsofinstagram"
+    },
+    {
+      "id": "s02",
+      "date": "2026-10-31T18:00:00+01:00",
+      "format": "story",
+      "type": "Story · weekend",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "images": [
+        "export/s02-1.png"
+      ],
+      "link": "https://bullepees.nl/hondensnacks",
+      "sticker": "Link-sticker → https://bullepees.nl/hondensnacks",
+      "caption": "",
+      "hashtags": ""
+    },
+    {
+      "id": "p10",
+      "date": "2026-11-02T19:00:00+01:00",
+      "format": "feed",
+      "type": "Service · allergie",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "images": [
+        "export/p10-1.png"
+      ],
+      "link": "https://bullepees.nl/contact",
+      "caption": "Heeft je hond een allergie of intolerantie? 🌿\n\nLaat het ons weten! Zet het in het opmerkingenveld bij je bestelling, of neem vooraf contact met ons op. Dan houden we er rekening mee, ook bij de extra snack die we standaard bij elke bestelling meesturen.\n\n📞 075 – 670 3199\n✉️ info@bullepees.nl",
+      "hashtags": "#bullepees #hondenallergie #gevoeligemaag #hondentips #natuurlijkehondensnacks"
+    },
+    {
+      "id": "p11",
+      "date": "2026-11-04T19:00:00+01:00",
+      "format": "feed",
+      "type": "Community · vraag",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "images": [
+        "export/p11-1.png"
+      ],
+      "link": "https://bullepees.nl",
+      "caption": "Vraagje aan jullie! 🐶\n\nWelke snack is bij jullie thuis de absolute favoriet? En waarom?\n\nVertel het ons in de reacties 👇 We zijn benieuwd!",
+      "hashtags": "#bullepees #favorietesnack #hondenvannederland #natuurlijkehondensnacks #hondenliefde"
+    },
+    {
+      "id": "p12",
+      "date": "2026-11-06T19:00:00+01:00",
+      "format": "feed",
+      "type": "Blog · stress",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "images": [
+        "export/p12-1.png"
+      ],
+      "link": "https://bullepees.nl/blog",
+      "caption": "Nieuw op de blog 📖\n\nNet als mensen kunnen honden stress ervaren. Een beetje spanning is normaal, maar langdurige stress kan leiden tot gedragsproblemen en gezondheidsklachten.\n\nIn onze blog lees je hoe je de signalen herkent en wat je kunt doen om je hond te helpen ontspannen.\n\nLees de blog hier: https://bullepees.nl/blog (ook via de link in bio)",
+      "hashtags": "#bullepees #stresshond #hondengedrag #hondentips #ontspannenhond"
+    },
+    {
+      "id": "p13",
+      "date": "2026-11-09T19:00:00+01:00",
+      "format": "feed",
+      "type": "Blog · konijn",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "images": [
+        "export/p13-1.png"
+      ],
+      "link": "https://bullepees.nl/100-konijn-hondensnacks",
+      "caption": "Nieuw op de blog 📖\n\nKonijn is een magere, goed verteerbare en smaakvolle eiwitbron. Daarom kiezen steeds meer baasjes voor konijnensnacks, zeker bij een gevoelige hond.\n\nVan luchtige trainers tot stevige konijnenoren met vacht: in de blog lees je welke snack bij jouw hond past.\n\nLees de blog hier: https://bullepees.nl/100-konijn-hondensnacks (ook via de link in bio)",
+      "hashtags": "#bullepees #konijnsnacks #hypoallergeen #natuurlijkehondensnacks #hondentips"
+    }
+  ]
+}
